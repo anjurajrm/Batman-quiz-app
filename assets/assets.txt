@@ -1,0 +1,14 @@
+logo
+batman-logo-transparent.png
+
+start-image
+http://sfwallpaper.com/images/batman-black-and-white-wallpaper-10.jpg
+
+right answer
+https://assets.about.me/background/users/d/o/w/downloadmxplayer_1530775599_739.jpg
+
+wrong answer
+https://images-na.ssl-images-amazon.com/images/I/317pU-9aCXL._SX425_.jpg
+
+final
+https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F736x%2F2d%2F9a%2F50%2F2d9a500430e9d47186be8f6b4c7ae6f1.jpg&f=1
