@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Quiz app name</title>
+    <meta name="description" content="Are you a Batman Fan? Take this quiz!!" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Black+Ops+One|Rajdhani&display=swap"
+      rel="stylesheet"
+    />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <!--header -logo and title-->
+    <header role="banner">
+      <div>
+        <img src="batman-logo-transparent.png" alt="logo" class="logo" />
+      </div>
+      <h1>BATMAN</h1>
+    </header>
+    <main role="main" class="main">
+      <!--start page---->
+      <div class="start">
+        <img
+          src="http://sfwallpaper.com/images/batman-black-and-white-wallpaper-10.jpg"
+          alt=" start-quiz "
+          class="start-img"
+        />
+        <button type="submit" class="button1">START</button>
+      </div>
+      <!-- for question number ans score part of the page-->
+      <div class="question-score"></div>
+      <!---- for question and options---->
+      <div class="question-ans"></div>
+    </main>
+
+    <!----section for the right answer--->
+    <section class="rightAnswer"></section>
+
+    <!---section for the wrong answer-->
+    <section class="wrongAnswer"></section>
+
+    <!---section for the final page --->
+    <section class="restart"></section>
+    <!--jquery library and js files-->
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.js"
+      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+      crossorigin="anonymous"
+    ></script>
+    <script src="script.js"></script>
+    <script src="quizdata.js"></script>
+  </body>
+</html>
